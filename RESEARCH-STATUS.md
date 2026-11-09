@@ -15,7 +15,7 @@ This is an organizing framework, not a new experiment or empirical result. Its w
 The synthesis does not replace existing study protocols or broaden their claims. In particular, it preserves the exploratory status and limitations of COLLECTIVE-001, the draft status of COLLECTIVE-002, the synthetic scope of NI-001–004, the exploratory status of AOA, the partial status of Observer–Ego evaluation, and the outstanding biological communication replication work.
 
 
-The framework now also records a conceptual clarification: the observer is not itself the communicating agent in this model; communication occurs through the person's ego/interface, which may be shaped by reflective observation. The receiving person's observer may then examine the communication and influence their response. This is a proposed functional distinction, not an established psychological mechanism or direct inference from messages. No experiment or empirical finding has been added.
+The framework records a conceptual clarification to the proposed Observer–Ego model: the observer receives incoming information; the ego communicates outward. These are distinct functional roles in the model, not an established psychological mechanism. Messages alone do not establish what a recipient internally received or understood. No experiment or empirical finding has been added.
 
 ## Current COLLECTIVE-001 status
 
