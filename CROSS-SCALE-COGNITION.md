@@ -92,21 +92,20 @@ The cross-scale framework gives the consciousness research a disciplined place: 
 
 ### 3.8 Observer and Ego as non-symmetrical parts of communication
 
-A further distinction is necessary in the working Observer–Ego framework: **the observer does not independently communicate; the ego is the communicating interface.** The observer is described as a reflective or noticing function, while the ego carries and expresses the person's thoughts, interpretations, identity, emotions, and intentions through speech, writing, or action.
+The working Observer–Ego model makes a strict distinction between receiving information and communicating it:
 
-On this account, an observer may examine, question, or influence what the person communicates, but it is the person—through the ego/interface—who communicates with another person. The receiving person's ego/interface receives the communication; their observer may then examine it and influence their response. Therefore, what might informally be called an “observer-to-observer exchange” is more precisely a communication between people whose observers may have reflected on what is sent and received.
+- **Observer:** receives information and performs the observing/receiving function. The observer is not itself the communicator.
+- **Ego:** communicates outwardly. It is the communicating function/interface; it does not receive incoming information in this model.
 
-This also sharpens the four proposed interaction configurations:
-- **Within one person:** observer-like reflection examines ego-related thoughts, narratives, and impulses.
-- **Between people, reflective-to-reflective in influence:** each person's observer has examined the content, but communication still occurs through each person's ego/interface.
-- **Ego-to-ego:** people communicate identity, emotion, narrative, interests, or social signals without necessarily engaging in reflective examination.
-- **Mixed reflective influence:** one person's communication, shaped by reflection, encounters another person's identity-laden or less-reflected response, or vice versa.
+A person can have both functions. Information arriving from another person is received by the observer, not by the ego. The observer's role is to take in and examine information; communication outward occurs through the ego. The same distinction applies in reciprocal interaction: one person's ego communicates, and the other person's observer receives. The recipient's ego may then communicate outward, but it is not the receiver.
 
-These are functional descriptions of processes, not separate beings, brain regions, or directly observable entities. They are not fixed personality types: the same person may shift between reflective and identity-driven modes depending on context. Ego-related communication is not inherently harmful; identity, emotion, belonging, and motivation can support cooperation. Nor is reflection automatically correct: observers can be biased, mistaken, or overconfident.
+This means “observer-to-observer communication” is not literally what occurs in this framework. Observers may each perform their receiving/observing role in a reciprocal exchange, but the outward transmission is ego-to-observer: one ego communicates and another observer receives. The four configurations should therefore not be treated as symmetrical communication pairings.
 
-**Research implication:** Do not code a message as proof that an observer literally communicated. Instead, study observable features of communication as cautious proxies—for example, explicit evidence-checking, acknowledgement of uncertainty, and revision after challenge, alongside identity signaling, norm defense, emotional framing, and repetition of group narratives. These textual or behavioral indicators do not provide direct access to a person's internal state.
+These are functional descriptions within the user's proposed framework, not established brain regions, separate beings, or validated psychological mechanisms. Their empirical status remains open. Do not silently import conventional psychological definitions of “ego” or assume additional functions not specified by this model.
 
-At group level, ask whether different communication patterns affect valid error correction, false correction, diversity of information, tolerance of dissent, correction propagation, decision quality, coordination, and conflict escalation. Any comparison must account for task and topic, difficulty, time, group composition, source dependencies, incentives, and unequal power. This is a conceptual refinement only; it does not add results or expand the current COLLECTIVE-002 task set.
+**Research implication:** Keep the functions distinct when developing operational measures. A message is evidence of outward communication, not direct evidence of what the receiving observer internally received, attended to, or understood. Textual indicators can describe the communication, but cannot by themselves establish the recipient's internal observation or processing. Any proposed measures must be labeled as proxies and independently validated.
+
+This is a conceptual clarification only; it adds no empirical result and does not expand the current COLLECTIVE-002 task set.
 
 ## 4. Common mechanisms to compare across scales
 
