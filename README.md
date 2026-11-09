@@ -8,6 +8,7 @@ NEXUS is a research method—not a separate proven AI system, an autonomous agen
 
 - [The NEXUS method](NEXUS-METHOD.md)
 - [Evidence and uncertainty standards](EVIDENCE-STANDARDS.md)
+- [Cross-scale cognition framework](CROSS-SCALE-COGNITION.md)
 - [COLLECTIVE-001: Colony community study](COLLECTIVE-001.md)
 - [Voluntary interview questions](COLLECTIVE-001-INTERVIEW-QUESTIONS.md)
 - [Research status and limitations](RESEARCH-STATUS.md)
