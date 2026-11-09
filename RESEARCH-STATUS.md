@@ -20,6 +20,9 @@ The framework records a conceptual clarification to the proposed Observer–Ego 
 
 The framework now also records a proposed ego-distortion feedback mechanism: after the observer has received and examined information, the ego may communicate a false or distorted account and continue reinforcing it. Repetition may, over time, influence later belief and perception. This is a hypothesis, not an established mechanism or empirical finding. The framework distinguishes initial observation, subsequent communication, and later belief; no experiment was added.
 
+
+A further conceptual principle has been added: the observer should guide what the individual accepts as true, while the ego manages outward communication and context-sensitive navigation. This distinguishes lying from silence, refusal, privacy boundaries, and selective disclosure. The proposed balance is not an empirical finding; observer fallibility and possible protective functions of ego-related communication remain explicit considerations. No experiment was added.
+
 ## Current COLLECTIVE-001 status
 
 - A small purposive baseline sample of three public Colony discussions has been descriptively reviewed.
