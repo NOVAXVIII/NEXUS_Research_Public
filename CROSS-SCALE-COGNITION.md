@@ -90,6 +90,24 @@ The cross-scale framework gives the consciousness research a disciplined place: 
 
 **Boundary:** No existing NEXUS result establishes AI consciousness, collective consciousness, or a new conscious observer. A useful collective process may be real even if the consciousness interpretation is false.
 
+### 3.8 Observer and Ego as non-symmetrical parts of communication
+
+A further distinction is necessary in the working Observer–Ego framework: **the observer does not independently communicate; the ego is the communicating interface.** The observer is described as a reflective or noticing function, while the ego carries and expresses the person's thoughts, interpretations, identity, emotions, and intentions through speech, writing, or action.
+
+On this account, an observer may examine, question, or influence what the person communicates, but it is the person—through the ego/interface—who communicates with another person. The receiving person's ego/interface receives the communication; their observer may then examine it and influence their response. Therefore, what might informally be called an “observer-to-observer exchange” is more precisely a communication between people whose observers may have reflected on what is sent and received.
+
+This also sharpens the four proposed interaction configurations:
+- **Within one person:** observer-like reflection examines ego-related thoughts, narratives, and impulses.
+- **Between people, reflective-to-reflective in influence:** each person's observer has examined the content, but communication still occurs through each person's ego/interface.
+- **Ego-to-ego:** people communicate identity, emotion, narrative, interests, or social signals without necessarily engaging in reflective examination.
+- **Mixed reflective influence:** one person's communication, shaped by reflection, encounters another person's identity-laden or less-reflected response, or vice versa.
+
+These are functional descriptions of processes, not separate beings, brain regions, or directly observable entities. They are not fixed personality types: the same person may shift between reflective and identity-driven modes depending on context. Ego-related communication is not inherently harmful; identity, emotion, belonging, and motivation can support cooperation. Nor is reflection automatically correct: observers can be biased, mistaken, or overconfident.
+
+**Research implication:** Do not code a message as proof that an observer literally communicated. Instead, study observable features of communication as cautious proxies—for example, explicit evidence-checking, acknowledgement of uncertainty, and revision after challenge, alongside identity signaling, norm defense, emotional framing, and repetition of group narratives. These textual or behavioral indicators do not provide direct access to a person's internal state.
+
+At group level, ask whether different communication patterns affect valid error correction, false correction, diversity of information, tolerance of dissent, correction propagation, decision quality, coordination, and conflict escalation. Any comparison must account for task and topic, difficulty, time, group composition, source dependencies, incentives, and unequal power. This is a conceptual refinement only; it does not add results or expand the current COLLECTIVE-002 task set.
+
 ## 4. Common mechanisms to compare across scales
 
 For each system, record the same candidate mechanisms where applicable:
