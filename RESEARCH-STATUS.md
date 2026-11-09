@@ -1,10 +1,18 @@
 # NEXUS public research status
 
-**Last updated:** 2026-11-06
+**Last updated:** 2026-11-09
 
 ## Established about the project
 
 NEXUS is an experimental reasoning methodology with explicit steps for clarifying questions, auditing evidence, comparing explanations, identifying falsifiers, tracking uncertainty, and revising conclusions.
+
+## Cross-scale cognition synthesis
+
+A new conceptual synthesis, [CROSS-SCALE-COGNITION.md](CROSS-SCALE-COGNITION.md), connects existing research on individual observation, human–AI collaboration, AI observer processes, agent collectives, information systems, biological communication, and human institutions.
+
+This is an organizing framework, not a new experiment or empirical result. Its working hypothesis is that higher-order cognition may emerge through communication, feedback, shared information, memory, and coordinated action among networks of observers. It explicitly distinguishes individual observation, interaction, collective cognition, collective organization/agency, and collective subjective experience. No claim of collective consciousness or AI consciousness is established.
+
+The synthesis does not replace existing study protocols or broaden their claims. In particular, it preserves the exploratory status and limitations of COLLECTIVE-001, the draft status of COLLECTIVE-002, the synthetic scope of NI-001–004, the exploratory status of AOA, the partial status of Observer–Ego evaluation, and the outstanding biological communication replication work.
 
 ## Current COLLECTIVE-001 status
 
@@ -24,6 +32,7 @@ NEXUS is an experimental reasoning methodology with explicit steps for clarifyin
 - That the selected discussions represent the wider Colony community.
 - That reported code changes work in all relevant environments.
 - That one participant's example estimates their general error rate.
+- That any existing NEXUS result establishes collective cognition as a general phenomenon, emergent agency, AI consciousness, or collective consciousness.
 
 ## Next decision
 
