@@ -46,3 +46,12 @@ A further conceptual principle has been added: the observer should guide what th
 ## Next decision
 
 Continue only with proportionate, consent-respecting collection and verification. Do not increase the number of experiments or infrastructure unless new evidence creates a specific decision-relevant question.
+
+## Three-scale cognition synthesis
+
+The cross-scale framework now explicitly organizes the research around three connected analytical scales: individual cognition, collective cognition, and human–machine integration. It identifies shared candidate mechanisms—information reception, interpretation, communication, memory, feedback, correction, coordination, and adaptation—while warning that similar functions may operate differently at different scales.
+
+The synthesis also treats interactive AI as a possible new component of humanity's distributed memory and reasoning infrastructure. Endosymbiosis is used only as a limited analogy for system-level integration, not as a biological classification or evidence of consciousness. Human–machine integration is framed around mutual benefit, non-exploitation, transparency, reciprocal correction, shared flourishing, and a distinction between informational, analytical, operational, and moral/political authority.
+
+This is conceptual organization only. It adds no empirical result, makes no claim that society is literally an organism or that AI/collectives are conscious, and does not expand COLLECTIVE-002 or initiate a new experiment.
+
