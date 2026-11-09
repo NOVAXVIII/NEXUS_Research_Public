@@ -130,6 +130,28 @@ Any test would need independently recorded initial observations, time-separated 
 
 This remains a conceptual hypothesis only. It adds no empirical result and does not expand the current COLLECTIVE-002 task set.
 
+
+### 3.10 Observer–Ego balance: truth and adaptive communication
+
+The working model does not treat either total ego dominance or total observer dominance as an ideal. It proposes a division of influence:
+
+- **Observer:** protects the individual's relationship with reality by receiving and examining information, recognizing uncertainty, and identifying when an account is false or unsupported.
+- **Ego:** provides the outward communicating function and may help the individual navigate social, strategic, and survival demands. It can choose how, when, and whether to communicate information.
+
+The proposed guiding principle is:
+
+> The observer should guide what the individual accepts as true; the ego should manage how the individual communicates and navigates that understanding.
+
+This is not permission to deceive. Truthfulness does not require disclosing every fact to every person. Silence, refusal to answer, privacy boundaries, and selective disclosure can protect someone without asserting a falsehood. The model therefore needs to distinguish lying from withholding or declining to communicate.
+
+The hypothesis is that an observer with sufficient influence can constrain self-deception and keep the individual's beliefs answerable to examined information, while an ego with appropriate communicative discretion can help the person act safely and effectively in social environments. Conversely, unchecked ego influence may distort communication and, through repetition, contribute to later belief or perceptual drift. A model in which the ego has no useful influence may also be maladaptive if it cannot protect privacy, manage disclosure, or respond to social risk.
+
+This proposed balance should not be reduced to “observer always right” or “ego always wrong.” The observer can make mistakes, and the ego's motives or communication choices may sometimes be protective or constructive. The key question is whether communication remains accountable to examined evidence while allowing context-sensitive judgment about disclosure.
+
+**Research questions:** Does stronger reflective influence reduce self-deceptive reporting and improve belief revision? Can people preserve accuracy in their private assessment while exercising safe, context-sensitive communication? What trade-offs arise among accuracy, privacy, trust, social functioning, and physical or strategic safety?
+
+These are conceptual hypotheses requiring operational definitions and evidence. Do not infer an individual's internal observer/ego balance from a single statement or communication sample. This addition is a conceptual synthesis only; it is not an empirical finding and does not expand the current COLLECTIVE-002 task set.
+
 ## 4. Common mechanisms to compare across scales
 
 For each system, record the same candidate mechanisms where applicable:
