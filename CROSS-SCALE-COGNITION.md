@@ -107,6 +107,29 @@ These are functional descriptions within the user's proposed framework, not esta
 
 This is a conceptual clarification only; it adds no empirical result and does not expand the current COLLECTIVE-002 task set.
 
+
+### 3.9 Ego distortion after observation and cumulative perceptual change
+
+A further proposal within the working Observer–Ego model is that the ego can communicate a false account even after the observer has received and examined information. In this account, the ego's communication need not faithfully represent what the observer recognized. The ego may continue repeating or maintaining the distortion over time.
+
+The proposed sequence is:
+
+1. **Observation:** The observer receives information and examines it.
+2. **Distortion:** The ego communicates an account that differs from what the observer recognized.
+3. **Repetition:** The ego continues communicating or reinforcing that account.
+4. **Cumulative influence:** Repeated distortion may affect the individual's later beliefs and interpretation of events.
+5. **Perceptual drift:** Over time, the individual's working understanding of reality may move away from the original observation.
+
+This is a proposed mechanism for exploring self-deception and persistent false narratives, not an established sequence or a claim that repetition inevitably changes perception. Relevant candidate mediators to investigate include memory reconstruction, selective attention, expectation, motivated reasoning, and social reinforcement. These are possible links to established research areas, not functions that this framework has demonstrated.
+
+A key research distinction is between (a) what information the observer initially received or recognized, (b) what the ego subsequently communicated, and (c) what the individual later believes or reports. These are not interchangeable measures. A later report cannot, by itself, reveal the original observation or prove that a distortion occurred.
+
+**Research questions:** Under what conditions does ego communication diverge from an observer's earlier recognition? Does repeated divergence predict later changes in belief, recall, attention, or interpretation? What evidence would show that the observer continues to detect the discrepancy, and what evidence would show that the individual's later perception has changed?
+
+Any test would need independently recorded initial observations, time-separated follow-ups, safeguards against demand effects, and measures that distinguish accurate updating from distortion. Group-level extensions could examine whether repeated false accounts spread through communication networks and become mutually reinforced.
+
+This remains a conceptual hypothesis only. It adds no empirical result and does not expand the current COLLECTIVE-002 task set.
+
 ## 4. Common mechanisms to compare across scales
 
 For each system, record the same candidate mechanisms where applicable:
