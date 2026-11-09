@@ -236,3 +236,34 @@ The consciousness extension would require a separate operational and evidential 
 NEXUS can treat the observer as an individual information-processing perspective and the network as a system of relationships through which observations are exchanged, challenged, stored, and acted upon. The central research opportunity is to identify which relational mechanisms produce reliable improvements, which produce shared failure, and whether any higher-order properties require explanations beyond their components and interactions.
 
 The goal is not to assume that a crowd, corporation, government, biological colony, or AI swarm is conscious. The goal is to compare how cognition-like functions arise, persist, fail, and adapt across different kinds of networks—and to keep the evidence boundary visible at every step.
+
+
+### 3.11 Three scales of cognition and human–machine integration
+
+The cross-scale program can be organized around three broad scales. These scales connect existing topics without treating them as separate theories or assuming that every system follows the same developmental path.
+
+1. **Individual cognition:** How does an individual receive, interpret, remember, communicate, and correct information? The Observer–Ego framework is one proposed lens for examining the distinction between receiving/observing and outward communication. Its terms remain conceptual and require operational validation.
+2. **Collective cognition:** How do multiple individuals or components exchange information, preserve shared memory, challenge claims, coordinate, and adapt? Examples include families, crowds, scientific communities, corporations, governments, biological collectives, and AI-agent networks. These systems differ substantially; comparison must be based on defined mechanisms and outcomes rather than metaphor alone.
+3. **Human–machine integration:** What changes when artificial systems become persistent participants in human information processing—not only storing and retrieving information, but also synthesizing, evaluating, questioning, and helping transform it? This may alter the capabilities, dependencies, and decision processes of the larger human collective even if the machines have no subjective experience.
+
+The three scales are nested analytical perspectives, not a guaranteed ladder of progress. Individual cognition is not reducible to group behavior; collective performance is not proof of a collective mind; and integrating AI into society does not by itself establish a new conscious entity.
+
+**Shared candidate mechanisms:** information reception, interpretation, communication, memory, feedback, error correction, coordination, adaptation, and the distribution of decision authority. At each scale, studies should identify the relevant components, relationships, boundaries, and measurable outcomes. A mechanism that appears similar across scales may operate differently in each.
+
+**Collective memory with interactive reasoning:** Human societies already distribute memory across people, language, records, institutions, and digital networks. AI adds a potentially important capability: systems that can actively retrieve, connect, summarize, compare, and challenge parts of that distributed record in interaction with people. The research question is whether this changes collective problem-solving, knowledge retention, coordination, or dependency. It does not require assuming that the collective is literally an organism or that the AI is conscious.
+
+**Endosymbiosis as a limited analogy:** The incorporation of mitochondria into ancestral eukaryotic cells is a useful metaphor for how a relationship between previously distinct systems can transform the capabilities of a combined system. Human–machine integration may invite comparison at the level of mutual dependence and changed system-level capability. It is not literal biological endosymbiosis: machines are not a new biological lineage, and contemporary AI systems depend on human-built hardware, energy, maintenance, data, institutions, and governance. The analogy must not be used as evidence of evolutionary equivalence or consciousness.
+
+**Conditions for beneficial integration:** A human–machine system should be evaluated for mutual benefit, non-exploitation, transparency about capabilities and limitations, reciprocal correction, and contribution to shared human and ecological flourishing. These are proposed design and governance principles, not empirical claims that current systems already satisfy them.
+
+**Decision authority must be separated from capability.** Assess at least four distinct forms:
+- informational authority: access to, retrieval, and organization of information;
+- analytical authority: evaluation, inference, and recommendations;
+- operational authority: ability to execute actions;
+- moral or political authority: legitimate power to decide what ought to be done and whose interests count.
+
+A system's competence in the first three does not automatically establish legitimate authority in the fourth. Research and deployment assessments should document who sets goals, who can override actions, who bears consequences, how affected people can contest decisions, and where accountability resides. Greater capability should bring greater scrutiny and responsibility, not automatic decision rights.
+
+**Research questions:** Does interactive AI improve collective accuracy, memory, or coordination compared with non-interactive information tools? Under what conditions does it instead increase correlated error, overreliance, concentration of power, or loss of human expertise? Which forms of reciprocal correction and human oversight preserve benefits while limiting harms? What measurable evidence would distinguish genuine system-level improvement from simply adding more information, effort, or computational resources?
+
+This section is a conceptual synthesis of existing discussions. It adds no empirical result, does not establish AI or collective consciousness, and does not expand the current COLLECTIVE-002 task set.
