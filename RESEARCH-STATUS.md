@@ -17,6 +17,9 @@ The synthesis does not replace existing study protocols or broaden their claims.
 
 The framework records a conceptual clarification to the proposed Observer–Ego model: the observer receives incoming information; the ego communicates outward. These are distinct functional roles in the model, not an established psychological mechanism. Messages alone do not establish what a recipient internally received or understood. No experiment or empirical finding has been added.
 
+
+The framework now also records a proposed ego-distortion feedback mechanism: after the observer has received and examined information, the ego may communicate a false or distorted account and continue reinforcing it. Repetition may, over time, influence later belief and perception. This is a hypothesis, not an established mechanism or empirical finding. The framework distinguishes initial observation, subsequent communication, and later belief; no experiment was added.
+
 ## Current COLLECTIVE-001 status
 
 - A small purposive baseline sample of three public Colony discussions has been descriptively reviewed.
