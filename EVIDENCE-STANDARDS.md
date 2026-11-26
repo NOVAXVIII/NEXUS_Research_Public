@@ -14,14 +14,13 @@ Do not promote an inference or speculation to an established finding through rep
 
 ## Verification levels
 
-Distinguish:
-1. Self-report.
-2. Publicly linked artifact.
-3. Artifact inspected by the researcher.
-4. Repeatable test with recorded method and outputs.
-5. Independent reproduction by a tester outside the original work.
+Use the same operational labels as the NEXUS Robustness, Verification, and Transfer Protocol:
+- **V0 — Unverified assertion:** a person/system reports an action or result.
+- **V1 — Internal record:** the acting system's own log, file, or state records it.
+- **V2 — External read-back:** the destination or external service returns the stored result.
+- **V3 — Independently controlled reproduction:** a separately controlled observer/system reproduces the relevant result using an independently governed path.
 
-These are not interchangeable. State exactly which level was reached.
+A public link or researcher inspection describes an artifact's accessibility, not by itself an independent reproduction. Record both the verification level and the access status. Earlier five-step summaries can be retained as descriptive provenance notes, but must not be silently treated as equivalent to V0–V3. State exactly what was inspected and which dependencies remain shared.
 
 ## Independence
 
