@@ -87,3 +87,8 @@ Use the simplest reliable workflow. NEXUS can be conducted with ordinary convers
 ## Limits
 
 A structured checklist can improve transparency without guaranteeing correctness. A group conversation does not by itself demonstrate independent verification, collective intelligence, autonomy, or consciousness. Conclusions must remain limited to the tested tasks, participants, data, and conditions.
+
+
+## Robustness, verification, and transfer
+
+For material claims or capability evaluations, apply the [NEXUS Robustness, Verification, and Transfer Protocol](ROBUSTNESS-AND-TRANSFER-PROTOCOL.md) proportionately. It distinguishes assertion, internal record, external read-back, and independently controlled reproduction; separates evidence support from accessibility; tests correction transfer and safeguard enforcement; distinguishes group performance from post-collaboration capability; and separates added information from altered retrieval. These are proposed design standards, not empirical evidence that NEXUS improves performance.
