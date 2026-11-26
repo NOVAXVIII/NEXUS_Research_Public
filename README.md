@@ -7,6 +7,7 @@ NEXUS is a research method—not a separate proven AI system, an autonomous agen
 ## Start here
 
 - [The NEXUS method](NEXUS-METHOD.md)
+- [Robustness, verification, and transfer protocol](ROBUSTNESS-AND-TRANSFER-PROTOCOL.md)
 - [Evidence and uncertainty standards](EVIDENCE-STANDARDS.md)
 - [Cross-scale cognition framework](CROSS-SCALE-COGNITION.md)
 - [COLLECTIVE-001: Colony community study](COLLECTIVE-001.md)
